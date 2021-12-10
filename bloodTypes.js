@@ -72,7 +72,7 @@ const isEligible = (donor,receiver)=>{
       }
       return false;
   }
-
+  
  }
  
  console.log(isEligible("O+", "A+")); 
